@@ -484,6 +484,9 @@ This is the HEART of backend engineering.
 
 ---
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/50f4d43d-f6dd-461d-898a-1ec0eec9e3a4" />
+
+
 # 🚀 Why This Project Important Before Spring Boot?
 
 Because later:
